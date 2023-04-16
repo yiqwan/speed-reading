@@ -4,8 +4,8 @@ button {
   background-image: radial-gradient(
     100% 100% at 100% 0,
     /* #2c3e50 0,
-    #000000 100%  */ #8c8c8c 0,
-    #000000 100%
+    #000000 100%  */ #b89c00 0,
+    #141100 100%
   );
   border: 0;
   border-radius: 6px;
@@ -65,16 +65,16 @@ button.current {
 .button-enabled {
   background-image: radial-gradient(
     100% 100% at 100% 0,
-    #5adaff 0,
-    #5468ff 100%
+    #ebf4ff 0,
+    #c2deff 100%
   );
 }
 
 .button-disabled {
   background-image: radial-gradient(
     100% 100% at 100% 0,
-    #fc5aff 0,
-    #ff5461 100%
+    #b89c00 0,
+    #141100 100%
   );
 }
 
@@ -114,8 +114,8 @@ input {
   background-image: radial-gradient(
     100% 100% at 100% 0,
     /* #2c3e50 0,
-    #000000 100%  */ #8c8c8c 0,
-    #000000 100%
+    #000000 100%  */ #b89c00 0,
+    #141100 100%
   );
   color: white;
 }
