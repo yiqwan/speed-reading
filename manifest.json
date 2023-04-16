@@ -3,7 +3,7 @@
   "name": "Speed Reading",
   "description": "Open source text converter designed to help you read faster!",
   "author": "Tang Yi Qwan",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
     "16": "src/icons/favicon-16.png",
