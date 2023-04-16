@@ -1,10 +1,10 @@
 {
-  "update_url": "",
+  "update_url": "https://clients2.google.com/service/update2/crx",
   "name": "Speed Reading",
   "description": "Open source text converter designed to help you read faster!",
   "author": "Tang Yi Qwan",
   "version": "0.0.0",
-  "manifest_version": 1,
+  "manifest_version": 3,
   "icons": {
     "16": "src/icons/favicon-16.png",
     "32": "src/icons/favicon-32.png",
