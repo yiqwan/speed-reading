@@ -7,7 +7,7 @@ A simple chrome extension designed to help you read faster and more efficiently.
 ![Without bionic reading](/img/without-bionic-reading.png)
 
 ### After
-![Without bionic reading](/img/without-bionic-reading.png)
+![Without bionic reading](/img/with-bionic-reading.png)
 
 ## Chrome extension link
 To be updated.
